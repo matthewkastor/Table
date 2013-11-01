@@ -8,8 +8,6 @@ Generate HTML tables from two dimensional JavaScript arrays.
 npm install git+https://github.com/matthewkastor/Table.git#master
 ```
 
-https://npmjs.org/package/Table
-
 Source code available at: https://github.com/matthewkastor/Table/
 
 ## Usage
