@@ -22,7 +22,7 @@ console.log(new Table());
 In the browser, include `./browser/Table_web.js` in your page. `Table` will
  be available in your page.
 
-For full documentation see the docs folder. For examples see the example folder.
+For full documentation see the docs folder.
 
 ## Tests
 
