@@ -14,6 +14,8 @@ Source code available at: https://github.com/matthewkastor/Table/
 
 In node:
 
+You'll need something like jsdom to actually generate HTML in node.
+
 ```
 var Table = require('Table');
 console.log(new Table());
@@ -22,7 +24,8 @@ console.log(new Table());
 In the browser, include `./browser/Table_web.js` in your page. `Table` will
  be available in your page.
 
-For full documentation see the docs folder.
+For full documentation see the docs folder. For an example of browser usage see
+ the example directory.
 
 ## Tests
 

@@ -1,11 +1,12 @@
 {
   "name": "Table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate HTML tables from two dimensional JavaScript arrays.",
   "main": "./src/Table.js",
   "directories": {
     "lib": "src",
-    "doc": "docs"
+    "doc": "docs",
+    "example" : "example"
   },
   "devDependencies": {
     "atropa-jsformatter": ">=0.1.2",
